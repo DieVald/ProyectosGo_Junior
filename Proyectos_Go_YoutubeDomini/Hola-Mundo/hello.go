@@ -1,7 +1,8 @@
 package main
 
+/*
 import "fmt"
 
-func main() {
+ func main() {
 	fmt.Println("Hola, saludo 3!!")
-}
+} */
