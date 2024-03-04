@@ -1,3 +1,4 @@
+/*
 package main
 
 import "fmt"
@@ -39,3 +40,4 @@ func main() {
 	areaCuadrado := baseCuadrado * baseCuadrado
 	fmt.Println("Ejemplo: AREA de una cuadrado de lado 10 es:	", areaCuadrado)
 }
+*/

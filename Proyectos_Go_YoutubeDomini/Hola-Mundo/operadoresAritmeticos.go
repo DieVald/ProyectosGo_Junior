@@ -1,3 +1,4 @@
+/*
 package main
 
 import "fmt"
@@ -35,4 +36,9 @@ func main() {
 	//*** MODULO
 	result = y % x
 	fmt.Println("*  Modulo:	    ", result)
+
+	//*** INCREMENTAL
+	x++
+	fmt.Println("*  Incremental:	   ", x)
 }
+*/
