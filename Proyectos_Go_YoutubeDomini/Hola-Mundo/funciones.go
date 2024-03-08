@@ -1,3 +1,4 @@
+/*
 package main
 
 import "fmt"
@@ -63,3 +64,4 @@ func retornarValorEntero(a int) int {
 func dobleRetorno(a int) (c, d int) {
 	return a, a * 2
 }
+*/
